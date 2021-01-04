@@ -7,5 +7,8 @@
 <script>
 </script>
 
-<style>
+<style lang="scss" scoped="scoped">
+  div{
+    color: green;
+  }
 </style>
